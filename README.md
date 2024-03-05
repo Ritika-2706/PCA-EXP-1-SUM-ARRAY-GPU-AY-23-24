@@ -1,7 +1,7 @@
 # PCA: EXP-1  SUM ARRAY GPU
-NAME: RITIKA S
-REGISTER NO: 212221240046
-EX. NO: 01
+<h1>NAME:</h1> RITIKA S
+</h1>REGISTER NO:</h1> 212221240046
+</h1>EX. NO:</h1> 01
 DATE:
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
